@@ -5,7 +5,7 @@ public class PersonalTracker : MonoBehaviour {
 	public Transform transFormObjetivo;
 	// Use this for initialization
 	void Start () {
-		transFormObjetivo = GameObject.Find ("personaje2").transform;
+		transFormObjetivo = GameObject.Find ("personaje").transform;
 	}
 	
 	// Update is called once per frame

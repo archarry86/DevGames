@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 4de2967757beeb443bcd1977b52f98ce
 ModelImporter:
-  serializedVersion: 16
+  serializedVersion: 15
   fileIDToRecycleName:
     100000: argollalp
     100002: Armature
@@ -164,7 +164,39 @@ ModelImporter:
     400156: pantalonlp
     400158: pasadorlp
     2300000: argollalp
+    2300002: botaslp
+    2300004: brazoslp
+    2300006: camisetalp
+    2300008: caralp
+    2300010: chalecolp
+    2300012: correas_gunholster_lp
+    2300014: correaspiernalp
+    2300016: espalda_dlp
+    2300018: espaldailp
+    2300020: gun_holsterlp
+    2300022: hombro_dlp
+    2300024: hombro_ilp
+    2300026: manillaslp
+    2300028: ojoslp
+    2300030: pantalonlp
+    2300032: pasadorlp
     3300000: argollalp
+    3300002: botaslp
+    3300004: brazoslp
+    3300006: camisetalp
+    3300008: caralp
+    3300010: chalecolp
+    3300012: correas_gunholster_lp
+    3300014: correaspiernalp
+    3300016: espalda_dlp
+    3300018: espaldailp
+    3300020: gun_holsterlp
+    3300022: hombro_dlp
+    3300024: hombro_ilp
+    3300026: manillaslp
+    3300028: ojoslp
+    3300030: pantalonlp
+    3300032: pasadorlp
     4300000: pantalonlp
     4300002: brazoslp
     4300004: botaslp
@@ -207,7 +239,6 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     optimizeGameObjects: 0
-    motionNodeName: 
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -251,5 +282,4 @@ ModelImporter:
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
-  additionalBone: 0
   userData: 

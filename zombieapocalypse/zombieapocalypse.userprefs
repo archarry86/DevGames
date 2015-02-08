@@ -1,8 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\entrenamiento\Assets\scripts\Players\Player.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\TrackerCamera.cs">
     <Files>
-      <File FileName="..\entrenamiento\Assets\scripts\Players\Player.cs" Line="18" Column="2" />
+      <File FileName="Assets\scripts\InterfazNivel.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\TrackerCamera.cs" Line="29" Column="50" />
+      <File FileName="Assets\scripts\EscenaCarga.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MainInterfaz.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PersonalTracker.cs" Line="8" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

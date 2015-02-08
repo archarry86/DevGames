@@ -26,7 +26,7 @@ public class TrackerCamera : MonoBehaviour {
 	void Start () {
 
 
-		GameObject gamobj = GameObject.Find ("personaje2");
+		GameObject gamobj = GameObject.Find ("personaje");
 		player = 	gamobj.GetComponent<Player> ();
 		transFormObjetivo = gamobj.transform;
 		estado = lamda;
