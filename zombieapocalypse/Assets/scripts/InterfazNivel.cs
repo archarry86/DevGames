@@ -345,7 +345,7 @@ public class MyInput{
 			htable = new Hashtable();
 			break;
 		default:
-			htable = new Hashtable();
+			//htable = new Hashtable();
 			break;
 			
 		}
